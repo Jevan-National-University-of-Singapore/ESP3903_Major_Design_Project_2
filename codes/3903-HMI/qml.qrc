@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Arduino.qml</file>
+        <file>PortSelector.qml</file>
+        <file>IndoorArea.qml</file>
+        <file>IndoorRegion.qml</file>
+        <file>IndoorControl.qml</file>
+        <file>MinMaxTemperatureControl.qml</file>
+        <file>ValueControl.qml</file>
+        <file>MinMaxAdcControl.qml</file>
+        <file>OutdoorArea.qml</file>
+        <file>OutdoorRegion.qml</file>
+        <file>OutdoorControl.qml</file>
+        <file>Images/Laptop.jpg</file>
+        <file>Images/Laptop.png</file>
+        <file>Images/fan.png</file>
+        <file>Images/damper.png</file>
+    </qresource>
+</RCC>
